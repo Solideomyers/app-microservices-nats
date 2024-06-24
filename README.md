@@ -1,6 +1,6 @@
 # APP - Microservices
 
-[![My Skills](https://skillicons.dev/icons?i=prisma,git,nestjs,ts,sqlite,postgres,yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma,git,nestjs,ts,sqlite,postgres,yarn,docker)](https://skillicons.dev)
 
 En este folder se encuentran un:
 
